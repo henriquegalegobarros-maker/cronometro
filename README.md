@@ -38,6 +38,7 @@ Manipulação de classes com classList.add() e classList.remove().
 
 Utilização de Date.now() para calcular o tempo.
 
+https://github.com/henriquegalegobarros-maker/cronometro/blob/main/assets/Captura%20de%20tela%202026-11-17%20160518.png?raw=true
 Estilização de botões com pseudo-classes :hover e :active.
 
 🎯 Objetivo
